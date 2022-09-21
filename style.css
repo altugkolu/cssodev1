@@ -1,0 +1,52 @@
+/* başlıklar */
+body{
+    text-align: center;
+}
+h1{
+    color:blue;
+    
+}
+
+h2{
+    color:aqua;
+   
+}
+
+h3{
+    color:coral;
+    
+}
+
+/* menu */
+
+.ul-menu {
+    list-style: none outside none;
+}
+.li-menu {
+     position: relative;
+     display: inline;
+     margin: 20px;
+}
+
+.urunlistesi{
+    list-style-position: inside;
+}
+
+img{
+width: 250px;
+height: 250px;
+
+}
+
+.p-hakkimizda{
+    text-align: left;
+    font-size: 15px;
+
+}
+
+.h3-hakkimizda{
+    color:chocolate;
+    text-align: left;
+    font: size 20px;
+   
+}
